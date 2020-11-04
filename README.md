@@ -1,10 +1,10 @@
-# Responsive Navbar Desktop
-
-![Responsive-Nav-Bar](https://user-images.githubusercontent.com/6918020/98081777-b593e780-1e9d-11eb-9690-38381c01e8d6.png)
-
 # Responsive Navbar Mobile
 
-![Responsive-Nav-Bar-2](https://user-images.githubusercontent.com/6918020/98081804-c3496d00-1e9d-11eb-91c6-bfcbd4ee7063.png)
+![Responsive-Nav-Bar](https://user-images.githubusercontent.com/6918020/98082312-8b8ef500-1e9e-11eb-803e-7055ccf1e335.png)
+
+# Responsive Navbar Desktop
+
+![Responsive-Nav-Bar-2](https://user-images.githubusercontent.com/6918020/98082344-9cd80180-1e9e-11eb-8fc4-4d233e7fa30d.png)
 
 <!-- ACKNOWLEDGEMENTS -->
 
