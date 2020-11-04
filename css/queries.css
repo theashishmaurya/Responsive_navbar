@@ -1,0 +1,29 @@
+@media screen and (max-width: 789px) {
+  .nav-links {
+    display: none;
+  }
+
+  .logo {
+    padding: 20px;
+  }
+
+  .navbar-toggle {
+    display: block;
+  }
+
+  .mob-nav-active {
+    width: 200px;
+    position: absolute;
+    right: 0.5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    top: 90px;
+    background-color: #cddc39;
+    transition: transform 0.5s ease-in;
+  }
+
+  .mob-nav-active li:hover a {
+    color: white;
+  }
+}
